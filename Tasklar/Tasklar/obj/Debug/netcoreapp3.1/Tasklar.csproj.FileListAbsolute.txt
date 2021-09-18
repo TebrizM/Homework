@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Tasklar\Tasklar\bin\Debug\netcoreapp3.1\Tasklar.exe
+C:\Users\User\source\repos\Tasklar\Tasklar\bin\Debug\netcoreapp3.1\Tasklar.deps.json
+C:\Users\User\source\repos\Tasklar\Tasklar\bin\Debug\netcoreapp3.1\Tasklar.runtimeconfig.json
+C:\Users\User\source\repos\Tasklar\Tasklar\bin\Debug\netcoreapp3.1\Tasklar.runtimeconfig.dev.json
+C:\Users\User\source\repos\Tasklar\Tasklar\bin\Debug\netcoreapp3.1\Tasklar.dll
+C:\Users\User\source\repos\Tasklar\Tasklar\bin\Debug\netcoreapp3.1\Tasklar.pdb
+C:\Users\User\source\repos\Tasklar\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tasklar\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Tasklar\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.AssemblyInfo.cs
+C:\Users\User\source\repos\Tasklar\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tasklar\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.dll
+C:\Users\User\source\repos\Tasklar\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.pdb
+C:\Users\User\source\repos\Tasklar\Tasklar\obj\Debug\netcoreapp3.1\Tasklar.genruntimeconfig.cache
