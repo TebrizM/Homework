@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Tasklar\\Tasklar\\Tasklar.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Homework\\Tasklar\\Tasklar\\Tasklar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Tasklar\\Tasklar\\Tasklar.csproj": {
+    "C:\\Users\\User\\source\\repos\\Homework\\Tasklar\\Tasklar\\Tasklar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Tasklar\\Tasklar\\Tasklar.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Homework\\Tasklar\\Tasklar\\Tasklar.csproj",
         "projectName": "Tasklar",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Tasklar\\Tasklar\\Tasklar.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Homework\\Tasklar\\Tasklar\\Tasklar.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Tasklar\\Tasklar\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Homework\\Tasklar\\Tasklar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
